@@ -69,6 +69,7 @@ LBRY,LBRY,b,85,28
 LEAF,Leafcoin,f,95,223
 LMC,LomoCoin,L,48,176
 LTC,Litecoin,L,48,176,ltc
+MEWC,Meowcoin,M,50,112
 MGD,MassGrid,M,50,25
 MMC,Memorycoin,M,50,178
 MNC,Mincoin,M,50,178
@@ -102,6 +103,7 @@ RDD,Reddcoin,R,61,189
 RIC,Riecoin,R,60,128
 ROI,ROIcoin,R,60,128
 RVN,Ravencoin,R,60,128
+SATOX,Satoxcoin,S,63,112
 SCA,Scamcoin,S,63,191
 SDC,Shadowcoin,S,63,191
 SKC,Skeincoin,S,63,226
